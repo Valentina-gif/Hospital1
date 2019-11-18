@@ -33,7 +33,7 @@ public class FrmCrud extends javax.swing.JFrame {
         btnEliminar.setVisible(false);
         this.setLocationRelativeTo(null);
         Func_buscarEps();
-    }
+    } Hola meteorito gracias por no destruirnos jajajajajaja
 
     @Override
     public Image getIconImage() {
